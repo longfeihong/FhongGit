@@ -1,0 +1,8 @@
+一、SpringBoot 2.x依赖环境和版本新特性说明
+	简介：
+	1、依赖版本JDK1.8以上，SpringBoot 2.x用的是JDK8，因为底层是Spring FrameWork5
+	2、安装Maven最新版本，Maven3.2以上，下载地址：https://maven.apache.org/download.cgi
+	3、工具是Eclipse或者IDE
+	4、新特性
+	5、SpringBoot GitHub地址：https://github.com/spring-projects/spring-boot
+	6、Springboot官方文档：https://spring.io/guides/gs/spring-boot/
